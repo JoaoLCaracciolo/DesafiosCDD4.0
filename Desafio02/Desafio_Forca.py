@@ -2,8 +2,6 @@ import random
 
 from biblioteca_Forca import boneco
 
-# 'AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz'
-
 # palavras que serão utilizadas na forca
 palavrasForca = ["python", "ruby", "java", "kotlin"]
 
