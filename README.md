@@ -22,5 +22,5 @@ O repositório está organizado da seguinte forma:
 
 - Desafio02:
 
-- Desafio03
+- Desafio03:
 
