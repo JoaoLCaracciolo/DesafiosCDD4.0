@@ -18,9 +18,9 @@ O repositório está organizado da seguinte forma:
 
 ## Os Desafios
 
--Desafio01:
+- Desafio01:
 
--Desafio02:
+- Desafio02:
 
--Desafio03
+- Desafio03
 
