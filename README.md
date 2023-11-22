@@ -15,3 +15,12 @@ O repositório está organizado da seguinte forma:
 - Leia o enunciado de cada desafio para entender os requisitos e critérios de sucesso.
 
 - Comece a trabalhar na sua solução. Você pode usar a linguagem de programação de sua escolha, desde que atenda aos requisitos do desafio.
+
+## Os Desafios
+
+-Desafio01:
+
+-Desafio02:
+
+-Desafio03
+
